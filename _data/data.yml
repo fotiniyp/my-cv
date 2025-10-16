@@ -2,30 +2,46 @@ name: Foteini Ypsilanti
 support_dark_mode: true
 fork: true
 
-# Top contact bar (horizontal)
+# 1️⃣ Contact Info (Horizontal Bar)
 contact_bar:
   - label: Email
     value: info@fot.com
     link: mailto:info@fot.com
   - label: GitHub
-    value: johndoe
-    link: https://github.com/johndoe
+    value: fotiniyp
+    link: https://github.com/fotiniyp
+  - label: LinkedIn
+    value: Foteini Ypsilanti
+    link: https://www.linkedin.com/in/fotiniyp/
+  - label: Phone
+    value: "+30 69XXXXXXXX"
+    link: "tel:+3069XXXXXXXX"
 
-languages:
-  - idiom: English
-  - idiom: French
+# 2️⃣ Experience
+experience:
+  - role: Product Designer
+    time: 2025-Present
+    company: Novibet
+    details: |
+      Designing product interfaces and improving UX for sports betting platforms.
+  - role: UI/UX Designer
+    time: 2012-2025
+    company: Core Group
+    details: |
+      Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
 
-# Education (horizontal layout)
+# 3️⃣ Education
 education:
   - degree: MSc in HCI
     university: University of Patra
     time: 2025-now
     summary: Focused on Human-Computer Interaction
-
   - degree: Architectural Engineering
     university: Aristotle University, Faculty of Engineering
-    time: ""   # αν θέλεις μπορείς να βάλεις έτος
+    time: 2010-2014
+    summary: Coursework included design, CAD, and project management.
 
+# 4️⃣ Skills
 skills:
   - category: Tools
     skill: 
@@ -33,17 +49,26 @@ skills:
       - Figma
       - Adobe Photoshop
       - Rhino
+  - category: Frontend
+    skill:
+      - HTML
+      - CSS
+      - JavaScript
+  - category: Backend
+    skill:
+      - Python
+      - Go
+      - Node.js
 
-# Experience
-experience:
-  - role: Product Designer
-    time: 2025-Present
-    company: Novibet
+# 5️⃣ Languages
+languages:
+  - idiom: English
+    level: Fluent
+  - idiom: French
+    level: Intermediate
+  - idiom: Greek
+    level: Native
 
-  - role: UI/UX Designer
-    time: 2012-2025
-    company: Core Group
-    
 
 
 
