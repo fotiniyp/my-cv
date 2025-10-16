@@ -43,16 +43,6 @@ experience:
     details: |
       Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
 
-# Education
-education:
-  - degree: MSc in HCI
-    university: University of Patras
-    time: 2025-now
-    summary: Focused on Human-Computer Interaction.
-  - degree: Architectural Engineering
-    university: Aristotle University, Faculty of Engineering
-    time: 2010-2014
-    summary: Coursework included design, CAD, and project management.
 
 # Projects
 projects:
