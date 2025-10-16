@@ -7,8 +7,10 @@ contact_bar:
   - label: Email
     value: info@fot.com
     link: mailto:info@fot.com
+  - label: GitHub
+    value: johndoe
     link: https://github.com/johndoe
- 
+
 languages:
   - idiom: English
   - idiom: French
@@ -22,7 +24,7 @@ education:
 
   - degree: Architectural Engineering
     university: Aristotle University, Faculty of Engineering
-    
+    time: ""   # αν θέλεις μπορείς να βάλεις έτος
 
 skills:
   - category: Tools
@@ -30,20 +32,16 @@ skills:
       - Autocad
       - Figma
       - Adobe Photoshop
-     - Rhino
-
-
-
+      - Rhino
 
 # Experience
 experience:
   - role: Product Designer
     time: 2025-Present
     company: Novibet
-    
-  
+
   - role: UI/UX Designer
-    time: 20122-2025
+    time: 2012-2025
     company: Core Group
     
 
