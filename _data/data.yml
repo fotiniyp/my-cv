@@ -2,13 +2,48 @@ name: Foteini Ypsilanti
 support_dark_mode: true
 fork: true
 
-# Contact Info
+# Sidebar / Contact Info
 contact:
   email: info@fot.com
-  github: fotiniyp
-  linkedin: Foteini Ypsilanti
   phone: "+30 69XXXXXXXX"
+
+languages:
+  - idiom: English
+    level: Fluent
+  - idiom: French
+    level: Intermediate
+  - idiom: Greek
+    level: Native
+
+education:
+  - degree: MSc in HCI
+    time: 2025-now
+    university: University of Patra
+    summary: Focused on Human-Computer Interaction
+  - degree: Architectural Engineering
+    time: 2012-2020
+    university: Aristotle University, Faculty of Engineering
+    summary: Coursework included design, CAD, and project management.
+
+skills:
+  - category: Tools
+    skill: 
+      - Autocad
+      - Figma
+      - Adobe Photoshop
+      - Rhino
+    details: Experienced in designing interfaces and prototypes.
+  - category: Frontend
+    skill:
+      - HTML
+      - CSS
+      - JavaScript
+    details: Web development skills for creating responsive UI.
   
+# Profile
+profile: |
+  Enthusiastic UX/UI designer and product designer with experience in web and application design.
+  Skilled in creating interfaces that enhance user experience and meet business goals.
 
 # Experience
 experience:
@@ -18,48 +53,23 @@ experience:
     details: |
       Designing product interfaces and improving UX for sports betting platforms.
   - role: UI/UX Designer
-    time: 2012-2025
+    time: 2022-2025
     company: Core Group
     details: |
       Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
+   - role: Architect
+    time: 2020-2022
+    company: MMA Architects
+    details: | 
 
-# Skills
-skills:
-  - category: Frontend
-    skill:
-      - HTML
-      - CSS
-      - JavaScript
-    details: Web development skills for creating responsive UI.
 
-# Languages
-languages:
-  - idiom: English
-    level: Fluent
-    details: Professional working proficiency in reading, writing, and speaking.
-  - idiom: French
-    level: Intermediate
-    details: Can communicate effectively in professional settings.
-  - idiom: Greek
-    level: Native
-    details: Mother tongue.
+projects:
+  - title: Genetic Algorithm: From object modeling to modeling optimization and complexity management processes 
+    link: #
+    details: |
+     
 
-# Education (at the bottom)
-education:
-  - degree: MSc in HCI
-    university: University of Patra
-    time: 2025-now
-    summary: Focused on Human-Computer Interaction
-  - degree: Architectural Engineering
-    university: Aristotle University, Faculty of Engineering
-    time: 2010-2014
-    summary: Coursework included design, CAD, and project management.
-
-# Profile
-profile: |
-  Enthusiastic UX/UI designer and product designer with experience in web and application design.
-  Skilled in creating interfaces that enhance user experience and meet business goals.
-
+ 
 
 
 
