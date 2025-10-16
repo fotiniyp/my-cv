@@ -4,13 +4,21 @@ fork: true
 
 # Contact Info
 contact:
-  email: info@fotini.com
+  email: info@fot.com
+  github: fotiniyp
+  linkedin: Foteini Ypsilanti
   phone: "+30 69XXXXXXXX"
+  gitlab: 
+  twitter: 
 
 # Languages
 languages:
   - idiom: English
+    level: Fluent
   - idiom: French
+    level: Intermediate
+  - idiom: Greek
+    level: Native
 
 # Skills
 skills:
@@ -38,11 +46,21 @@ experience:
     details: |
       Designing product interfaces and improving UX for sports betting platforms.
   - role: UI/UX Designer
-    time: 2022-2025
+    time: 2012-2022
     company: Core Group
     details: |
       Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
 
+# Education
+education:
+  - degree: MSc in HCI
+    university: University of Patra
+    time: 2025-now
+    summary: Focused on Human-Computer Interaction
+  - degree: Architectural Engineering
+    university: Aristotle University, Faculty of Engineering
+    time: 2010-2014
+    summary: Coursework included design, CAD, and project management.
 
 # Projects
 projects:
