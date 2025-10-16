@@ -2,7 +2,7 @@ name: Foteini Ypsilanti
 support_dark_mode: true
 fork: true
 
-# Sidebar / Contact Info
+# Contact Info
 contact:
   email: info@fot.com
   github: fotiniyp
@@ -10,50 +10,6 @@ contact:
   phone: "+30 69XXXXXXXX"
   gitlab: 
   twitter: 
-
-languages:
-  - idiom: English
-    level: Fluent
-  - idiom: French
-    level: Intermediate
-  - idiom: Greek
-    level: Native
-
-education:
-  - degree: MSc in HCI
-    time: 2025-now
-    university: University of Patra
-    summary: Focused on Human-Computer Interaction
-  - degree: Architectural Engineering
-    time: 2010-2014
-    university: Aristotle University, Faculty of Engineering
-    summary: Coursework included design, CAD, and project management.
-
-skills:
-  - category: Tools
-    skill: 
-      - Autocad
-      - Figma
-      - Adobe Photoshop
-      - Rhino
-    details: Experienced in designing interfaces and prototypes.
-  - category: Frontend
-    skill:
-      - HTML
-      - CSS
-      - JavaScript
-    details: Web development skills for creating responsive UI.
-  - category: Backend
-    skill:
-      - Python
-      - Go
-      - Node.js
-    details: Server-side programming and API development.
-
-# Profile
-profile: |
-  Enthusiastic UX/UI designer and product designer with experience in web and application design.
-  Skilled in creating interfaces that enhance user experience and meet business goals.
 
 # Experience
 experience:
@@ -68,27 +24,43 @@ experience:
     details: |
       Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: Foteini Ypsilanti
-    conference: Some conference, 2016
+# Skills
+skills:
+  - category: Frontend
+    skill:
+      - HTML
+      - CSS
+      - JavaScript
+    details: Web development skills for creating responsive UI.
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: Foteini Ypsilanti
-    conference: Some conference again, 2018
+# Languages
+languages:
+  - idiom: English
+    level: Fluent
+    details: Professional working proficiency in reading, writing, and speaking.
+  - idiom: French
+    level: Intermediate
+    details: Can communicate effectively in professional settings.
+  - idiom: Greek
+    level: Native
+    details: Mother tongue.
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Designed and implemented a user-friendly interface for web applications.
+# Education (at the bottom)
+education:
+  - degree: MSc in HCI
+    university: University of Patra
+    time: 2025-now
+    summary: Focused on Human-Computer Interaction
+  - degree: Architectural Engineering
+    university: Aristotle University, Faculty of Engineering
+    time: 2010-2014
+    summary: Coursework included design, CAD, and project management.
 
-  - title: Another Project 
-    link: #
-    details: |
-      Developed prototypes and mockups to improve UX and UI design workflow.
+# Profile
+profile: |
+  Enthusiastic UX/UI designer and product designer with experience in web and application design.
+  Skilled in creating interfaces that enhance user experience and meet business goals.
+
 
 
 
