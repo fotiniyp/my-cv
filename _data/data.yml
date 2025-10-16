@@ -2,33 +2,28 @@ name: Foteini Ypsilanti
 support_dark_mode: true
 fork: true
 
-# Sidebar
+# Contact Info
 contact:
   email: info@fotini.com
-  phone: 69********
-  
+  phone: "+30 69XXXXXXXX"
 
+# Languages
 languages:
   - idiom: English
   - idiom: French
 
-
-
-
+# Skills
 skills:
   - category: Frontend
     skill:
       - HTML
       - CSS
-      - Javascript
+      - JavaScript
   - category: Tools
     skill:
       - Autocad
       - Figma
-      - Rhino  
-      
-      
-  
+      - Rhino
 
 # Profile
 profile: |
@@ -42,28 +37,29 @@ experience:
     company: Novibet
     details: |
       Designing product interfaces and improving UX for sports betting platforms.
-    
-  
   - role: UI/UX Designer
     time: 2022-2025
     company: Core Group
     details: |
       Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
-    
 
+# Education
 education:
-  - title: MSc in HCI
-    link: "#"
-    authors: University of Patras
-    
+  - degree: MSc in HCI
+    university: University of Patras
+    time: 2025-now
+    summary: Focused on Human-Computer Interaction.
+  - degree: Architectural Engineering
+    university: Aristotle University, Faculty of Engineering
+    time: 2010-2014
+    summary: Coursework included design, CAD, and project management.
 
-  - title: Architectural Engineering
-    link: "#"
-    authors: Aristotle University, Faculty of Engineering
-    
-
+# Projects
 projects:
-  - title: Genetic Algorithm: From object modeling to modeling optimization and complexity management processes 
+  - title: Genetic Algorithm: From object modeling to modeling optimization and complexity management processes
+    details: |
+      Implemented algorithms to optimize modeling workflows and manage complexity in design projects.
+
     
      
 
