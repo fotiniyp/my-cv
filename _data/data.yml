@@ -2,7 +2,7 @@ name: Foteini Ypsilanti
 support_dark_mode: true
 fork: true
 
-# 1️⃣ Contact Info (Horizontal Bar)
+# Contact Info (Horizontal Bar)
 contact_bar:
   - label: Email
     value: info@fot.com
@@ -17,7 +17,7 @@ contact_bar:
     value: "+30 69XXXXXXXX"
     link: "tel:+3069XXXXXXXX"
 
-# 2️⃣ Experience
+# Experience
 experience:
   - role: Product Designer
     time: 2025-Present
@@ -30,42 +30,54 @@ experience:
     details: |
       Created user interfaces and experiences for web applications, collaborating with cross-functional teams.
 
-# 3️⃣ Education
+# Education
 education:
   - degree: MSc in HCI
     university: University of Patra
     time: 2025-now
-    summary: Focused on Human-Computer Interaction
+    details: |
+      Focused on Human-Computer Interaction.
   - degree: Architectural Engineering
     university: Aristotle University, Faculty of Engineering
     time: 2010-2014
-    summary: Coursework included design, CAD, and project management.
+    details: |
+      Coursework included design, CAD, and project management.
 
-# 4️⃣ Skills
+# Skills
 skills:
   - category: Tools
-    skill: 
+    skill:
       - Autocad
       - Figma
       - Adobe Photoshop
       - Rhino
+    details: |
+      Experienced in designing interfaces and prototypes.
   - category: Frontend
     skill:
       - HTML
       - CSS
       - JavaScript
+    details: |
+      Web development skills for creating responsive UI.
   - category: Backend
     skill:
       - Python
       - Go
       - Node.js
+    details: |
+      Server-side programming and API development.
 
-# 5️⃣ Languages
+# Languages
 languages:
   - idiom: English
     level: Fluent
+    details: |
+      Professional working proficiency in reading, writing, and speaking.
   - idiom: French
     level: Intermediate
+    details: |
+      Can communicate effectively in professional settings.
   - idiom: Greek
     level: Native
 
