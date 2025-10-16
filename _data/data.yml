@@ -1,108 +1,51 @@
-name: John Doe
+name: Foteini Ypsilanti
 support_dark_mode: true
 fork: true
 
-# Sidebar
-contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
-
+# Top contact bar (horizontal)
+contact_bar:
+  - label: Email
+    value: info@fot.com
+    link: mailto:info@fot.com
+    link: https://github.com/johndoe
+ 
 languages:
   - idiom: English
-  - idiom: Russian
   - idiom: French
 
+# Education (horizontal layout)
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in HCI
+    university: University of Patra
+    time: 2025-now
+    summary: Focused on Human-Computer Interaction
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Architectural Engineering
+    university: Aristotle University, Faculty of Engineering
+    
 
 skills:
-  - category: Backend
+  - category: Tools
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
-    skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Autocad
+      - Figma
+      - Adobe Photoshop
+     - Rhino
 
-# Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+
+
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+  - role: Product Designer
+    time: 2025-Present
+    company: Novibet
+    
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+  - role: UI/UX Designer
+    time: 20122-2025
+    company: Core Group
+    
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
