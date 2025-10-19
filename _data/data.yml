@@ -5,7 +5,7 @@
 sidebar:
   position: left # position of the sidebar : left or right
   about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Foteini Ypsilanti
@@ -61,10 +61,10 @@ sidebar:
       link:
 
 
-#career-profile:
-  #title: Career Profile
-  #summary: |
-    #Enthusiastic UI/UX designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
+career-profile:
+  title: Career Profile
+  summary: |
+    Enthusiastic UI/UX designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
          
 education:
   title: Education
@@ -74,7 +74,7 @@ education:
     #time: 2011 - 2012#
     
   - degree: Integrated Master in Architectural Engineering
-    university: Aristotle University of Thessaloniki
+    university: Aristotle University
     #time: 2007 - 2011
     
 
@@ -84,25 +84,38 @@ experiences:
   - role: Product Designer
     time: 2025 - Present
     company: Novibet
-    #details: |
-      #Describe your role here lorem ipsum dolor sit amet, consectetuer
-    
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+      error sit voluptatem accusantium doloremque laudantium, totam rem
+      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+      architecto beatae vitae dicta sunt explicabo.
         - Bullet point
         - Bullet point
   - role: UI/UX Designer
     time: 2022 - 2025
     company: Core Group
-    #details: |
-      #Describe your role here lorem ipsum dolor sit amet, consectetuer
-      
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
   - role: Architect
     time: 2021 - 2022
     company: MMA Architects
-    #details: |
-      #Describe your role here lorem ipsum dolor sit amet, consectetuer
-      
+    details: |
+      Describe your role here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      Cum sociis natoque penatibus et magnis dis parturient montes,
+      nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
 
@@ -133,12 +146,30 @@ certifications:
       #adipiscing elit.
       
 
-#projects:
-  #title: Projects
-  #intro: >
-    #You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  #assignments:
-  
+projects:
+  title: Projects
+  intro: >
+    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  assignments:
+  - title: Velocity
+    link: "#hook"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+  - title: DevStudio
+    link: "#"
+    tagline: "A responsive website template designed to help web developers/designers market their services."
+
+  - title: Tempo
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+  - title: Atom
+    link: "#"
+    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+  - title: Delta
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #oss:
   #title: OSS Contributions
@@ -202,22 +233,22 @@ skills:
 
   toolset:
   - name: Python & Django
-    level: 98%
+    #level: 98%
 
   - name: Javascript & jQuery
-    level: 98%
+    #level: 98%
 
   - name: Angular
-    level: 98%
+    #level: 98%
 
   - name: HTML5 & CSS
-    level: 95%
+    #level: 95%
 
   - name: Ruby on Rails
-    level: 85%
+    #level: 85%
 
   - name: Sketch & Photoshop
-    level: 60%
+    #level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
