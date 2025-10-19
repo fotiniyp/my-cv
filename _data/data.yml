@@ -12,10 +12,11 @@ sidebar:
   tagline: Product Designer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  Contact Info:
-    title: Contact Info
-  email: example@email.com
-  phone: 69********
+  # Sidebar links
+  contact_info:
+    title: "Contact Info"
+    email: example@email.com
+    phone: 69********
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   #citizenship:
   #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
