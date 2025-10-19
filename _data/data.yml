@@ -46,7 +46,7 @@ sidebar:
     - idiom: Greek
       level: Native
 
-  #interests:
+  interests:
     title: Interests
     info:
     - item: Climbing
@@ -66,33 +66,7 @@ career-profile:
   summary: |
     Enthusiastic UX/UI designer and product designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
     Second paragraph if required.
-education:
-  title: Education
-  info:
-  - degree: MSc in Human-Computer Interaction
-    university: University of Patras
-    #time: 2011 - 2012#
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
-experiences:
+    experiences:
   title: Experiences
   info:
   - role: Lead Developer
@@ -132,6 +106,35 @@ experiences:
       pellentesque eu, pretium quis, sem.
         - Bullet point
         - Bullet point
+
+        
+education:
+  title: Education
+  info:
+  - degree: MSc in Human-Computer Interaction
+    university: University of Patras
+    #time: 2011 - 2012#
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
+
 
 certifications:
   title: Certifications
