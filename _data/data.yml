@@ -79,17 +79,6 @@ sidebar:
   #summary: |
     #Enthusiastic UI/UX designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
          
-education:
-  title: Education
-  info:
-  - degree: MSc in Human-Computer Interaction
-    university: University of Patras
-    #time: 2011 - 2012#
-    
-  - degree: Integrated Master in Architectural Engineering
-    university: Aristotle University of Thessaloniki
-    #time: 2007 - 2011
-    
 
 experiences:
   title: Experiences
@@ -113,7 +102,7 @@ experiences:
     details: |
         - Created detailed architectural plans and 3D models for residential  projects.
         
-
+ 
 certifications:
   title: Certifications
   list:
@@ -128,7 +117,16 @@ certifications:
       Completed training designed for entry-level job readiness. Topics included UX research fundementals,
       inclusive desig, wireframes, low and high-fidelity prototypes.
 
-      
+education:
+  title: Education
+  info:
+  - degree: MSc in Human-Computer Interaction
+    university: University of Patras
+    #time: 2011 - 2012#
+    
+  - degree: Integrated Master in Architectural Engineering
+    university: Aristotle University of Thessaloniki
+    #time: 2007 - 2011             
   #- name: Git learning
     #start: 2019
     #end:
