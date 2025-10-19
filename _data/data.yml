@@ -3,18 +3,18 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Foteini Ypsilanti
+  tagline: Product Designer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: example@email.com
-  phone: 012 345 6789
+  phone: 69********
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -38,13 +38,13 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
+      level: Professional
 
     - idiom: French
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Greek
+      level: Native
 
   interests:
     title: Interests
@@ -64,18 +64,14 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
+    Enthusiastic UX/UI designer and product designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
     Second paragraph if required.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Human-Computer Interaction
+    university: University of Patras
+    #time: 2011 - 2012#
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
