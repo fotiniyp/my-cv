@@ -46,32 +46,13 @@ sidebar:
     - idiom: Greek
       level: Native
 
-  interests:
-    title: Skills
-    info:
-    - item: Figma
-      link:
+  #interests:
+    #title: Skills
+    #info:
+    #- item: Figma
+      #link:
 
-
-    - item: Autocad
-      link:
-
-
-    - item: Rhino
-      link:
-
-    - item: Adobe Photoshop
-      link:
-      
-    - item: Adobe Indesign
-      link:
-
-
-    - item: Adobe XD
-      link:
-
-    - item: Revit
-      link:    
+  
 
 
 #career-profile:
@@ -209,7 +190,7 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Figma • Adobe XD • Miro • Autocad • Rhino 3D • Adobe Phtoshop • Adobe Indesign • HTML • CSS
     #level: 98%
 
   #- name: Javascript & jQuery
