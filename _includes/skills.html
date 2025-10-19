@@ -9,14 +9,9 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
+  <div class="skillset-inline">
     {% for skill in skills.toolset %}
-    <div class="item">
-      <h3 class="level-title">{{ skill.name }}</h3>
-      {% if skill.level %}
-      <p class="level-text">{{ skill.level }}</p>
-      {% endif %}
-    </div>
+      <span class="skill-item">{{ skill.name }}</span>{% unless forloop.last %} • {% endunless %}
     {% endfor %}
   </div>
 </section>
