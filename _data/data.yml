@@ -117,15 +117,30 @@ certifications:
       Completed training designed for entry-level job readiness. Topics included UX research fundementals,
       inclusive desig, wireframes, low and high-fidelity prototypes.
 
-education:
-  title: Education
-  info:
-  - degree: MSc in Human-Computer Interaction
-    university: University of Patras
+      
+certifications:
+  title: Certifications
+  list:
+  - name: Google UX Design Certificate
+    start: 2021
+    end: 2022
+    organization: Google
+    #credentialid: 111-222
+    #credentialurl: www.google.com
+    #credentialname: Google
+    details: |
+      Completed training designed for entry-level job readiness. Topics included UX research fundementals,
+      inclusive desig, wireframes, low and high-fidelity prototypes.
+
+#education:
+  #title: Education
+  #info:
+  #- degree: MSc in Human-Computer Interaction
+    #university: University of Patras
     #time: 2011 - 2012#
     
-  - degree: Integrated Master in Architectural Engineering
-    university: Aristotle University of Thessaloniki
+  #- degree: Integrated Master in Architectural Engineering
+    #university: Aristotle University of Thessaloniki
     #time: 2007 - 2011             
   #- name: Git learning
     #start: 2019
