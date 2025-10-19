@@ -61,10 +61,10 @@ sidebar:
       link:
 
 
-career-profile:
-  title: Career Profile
-  summary: |
-    Enthusiastic UI/UX designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
+#career-profile:
+  #title: Career Profile
+  #summary: |
+    #Enthusiastic UI/UX designer with experience in web and application design. Skilled in creating interfaces that enhance user experience and meet business goals.
          
 education:
   title: Education
@@ -74,7 +74,7 @@ education:
     #time: 2011 - 2012#
     
   - degree: Integrated Master in Architectural Engineering
-    university: Aristotle University
+    university: Aristotle University of Thessaloniki
     #time: 2007 - 2011
     
 
