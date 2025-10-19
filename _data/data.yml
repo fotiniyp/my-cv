@@ -84,10 +84,7 @@ experiences:
   - role: Product Designer
     time: 2025 - Present
     company: Novibet
-    #details: |
-      #Describe your role here lorem ipsum dolor sit amet, consectetuer
-      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      
+    details: |
         - Bullet point
         - Bullet point
   - role: UI/UX Designer
