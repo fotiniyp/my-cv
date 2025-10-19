@@ -10,9 +10,9 @@ sidebar:
   # Profile information
   name: Foteini Ypsilanti
   tagline: Product Designer
-  #avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
+  Contact Info
   email: example@email.com
   phone: 69********
   #timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
@@ -95,19 +95,19 @@ experiences:
   title: Experiences
   info:
   - role: Product Designer
-    time: 2025 - Present
+    time: May 2025 - Present
     company: Novibet
     details: |
         - Bullet point
         - Bullet point
   - role: UI/UX Designer
-    time: 2022 - 2025
+    time: Sept 2022 - Apr 2025
     company: Core Group
     details: |
         - Bullet point
         - Bullet point
   - role: Architect
-    time: 2021 - 2022
+    time: Sept 2021 - Aug 2022
     company: MMA Architects
     details: |
         - Bullet point
