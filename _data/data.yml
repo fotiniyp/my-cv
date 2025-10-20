@@ -51,6 +51,24 @@ sidebar:
     #info:
     #- item: Figma
       #link:
+      
+    #- item: Adobe XD
+      #link:
+
+    #- item: Autocad
+      #link:
+      
+    #- item: Adobe Photoshop
+      #link:
+
+    #- item: Adobe Indesign
+      #link:
+
+    #- item: Rhino 3D
+      #link:
+      
+    #- item: HTML/CSS
+      #link:
 
   
 
@@ -75,8 +93,8 @@ experiences:
     company: Core Group
     details: |
         - Redesigned the platform to improve user experience and visual consistency
-        - Collaborated with developers to ensure design feasibility and consistency across platforms.
         - Conducted user research and usability testing to identify pain points and guide design improvements.   
+        - Collaborated with developers to ensure design feasibility and consistency across platforms.     
   - role: Architect
     time: Sept 2021 - Aug 2022
     company: MMA Architects
@@ -187,10 +205,10 @@ education:
       #He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Skills #&amp; Proficiency
 
   toolset:
-  - name: Figma • Adobe XD • Miro • Autocad • Rhino 3D • Adobe Phtoshop • Adobe Indesign • HTML • CSS
+  - name: Figma • Adobe XD • Autocad • Rhino 3D • Adobe Photoshop • Adobe Indesign • HTML • CSS
     #level: 98%
 
   #- name: Javascript & jQuery
